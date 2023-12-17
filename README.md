@@ -1,0 +1,2 @@
+# IntervalIntersectionDetection
+interval intersection detection
